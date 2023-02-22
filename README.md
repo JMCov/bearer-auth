@@ -35,3 +35,9 @@ N/A
 #### UML
 
 ![Lab-07 UML](assets/lab-06-uml.PNG)
+
+
+collaborators:
+Ken Holt
+Joe Davitt
+Adrienne Frey
